@@ -1,0 +1,1 @@
+consolog.log(1);
